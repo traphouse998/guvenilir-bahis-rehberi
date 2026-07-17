@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://traphouse998.github.io/guvenilir-bahis-rehberi/sitemap.xml
